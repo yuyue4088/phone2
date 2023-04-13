@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container loginIn" style="backgroundImage: url(https://img.zcool.cn/community/019fcf589ea315a8012060c8e67b48.jpg@1280w_1l_2o_100sh.jpg)">
+    <div class="container loginIn" style="backgroundImage: url(https://cdn.cnbj1.fds.api.mi-img.com/product-images/redmi12c9bb9hb/index/1245.jpg?x-fds-process=image/resize,q_90)">
 
       <div :class="2 == 1 ? 'left' : 2 == 2 ? 'left center' : 'left right'" style="backgroundColor: rgba(208, 163, 140, 0.53)">
         <el-form class="login-form" label-position="left" :label-width="1 == 3 ? '56px' : '0px'">
